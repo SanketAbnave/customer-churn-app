@@ -64,4 +64,7 @@ The goal of this project is to:
 <img width="693" height="787" alt="churn-1" src="https://github.com/user-attachments/assets/1f130e9a-52a6-45f9-97d9-4dfe6c1a9c72" />
 <img width="810" height="872" alt="churn-2" src="https://github.com/user-attachments/assets/5269981b-880e-43c8-ba6e-71da95c3a51a" />
 
+## Live Demo
+https://sanketabnave-customer-churn-app-app-tpghut.streamlit.app/
+
 
